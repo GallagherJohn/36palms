@@ -1,4 +1,4 @@
-# 35palms
+# 36palms
 A website for Luxury Palm Landworks, offering palm tree installation and landscaping services in Jacksonville, FL.
 
 ## Setup
@@ -9,6 +9,7 @@ A website for Luxury Palm Landworks, offering palm tree installation and landsca
 - `index.html`: Homepage
 - `allServices.html`: Detailed services page
 - `gallery.html`: Project portfolio
+- `services.html`: Services
 
 ## Hosting
 Enable GitHub Pages in repo settings to host the site at https://gallagherjohn.github
